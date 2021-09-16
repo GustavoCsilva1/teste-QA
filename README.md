@@ -24,7 +24,9 @@ https://www.youtube.com/embed/ltj7r5Z3jso
  ## Pontos de melhoria//atenção:
  * Ao navegar pelas páginas senti muita lentidao para o carregamento, mesmo minha rede internet ultrapassando os 100 megas de down e up. Se colocando no lugar do usuário comum que vai utilizar essa interface diariamente, este ponto pode se tornar um incomodo e a página pode não trabalhar como deveria no dia a dia dependendo da internet do usuário.
 
- * Como mostrado no print logo abaixo, seria interessante existir um link em "motoristas" que me encaminhasse de volta para a página anterior de motoristas. Se colocando no lugar do usuário comum, seria uma ferramenta interessante que o usuário pode sentir falta.
+ * No cabeçalho é possível ver os links e ícones duplicados, não acredito ter sido proposital pois não há necessidade de duplicar. Isto acaba deixando a página mais poluída e mais pesada, o que dificultaria ainda mais a navegação do usuário.
+
+ * Como mostrado no print logo abaixo, o link em "motoristas" que deveria me encaminhar de volta para a página anterior não funciona. Se colocando no lugar do usuário comum, é  uma ferramenta que o usuário pode sentir falta.
  ![erro_link](https://user-images.githubusercontent.com/80724237/133551848-ae4ffb70-76dc-4a59-b6ba-f084026de66c.png)
  
  ## Considerações:
